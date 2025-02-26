@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Scave</h1>
 <h3 align="center">A full stack developer based on the Philippines. I do web development from design to deployment. With over 3 years of total experience, browse my repo for some of my public projects</h3>
 
-- 🌱 I’m currently learning **Springboot**
+- 🔭 I’m currently working on **A parish website for my local catholic church integrated with AI agent to assist with online operations such as registrations, appointments and scheduling.**
+
+- 🌱 I’m currently learning **Springboot, RAG, AI LLM and AGENTS**
+
+- 🔭 I’m currently working on **A side project; E-commerce with AI chatbot and analytics.**
+
+- 🤝 Looking forward to build my own Saas **-----secret----- 🤣**
+
+- 👨‍💻 All of my projects are available at ["in development"]("in development")
 
 - 📫 How to reach me **delapena.scavenger@gmail.com**
 
